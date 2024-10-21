@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Clinica">Clinique</string>
+    <string name="diagnostico">Diagnostic</string>
+    <string name="idioma">Langue</string>
+    <string name="voltar">Retour</string>
+</resources>
