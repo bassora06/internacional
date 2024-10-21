@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="textMenu">Menu Principal</string>
-    <string name="textoDiag"> Diagnostico</string>
-    <string name="textoSobre"> Sobre</string>
-    <string name="textoIdioma"> Idioma</string>
-</resources>
