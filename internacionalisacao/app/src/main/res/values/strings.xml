@@ -4,6 +4,10 @@
     <string name="diagnostico">Diagnóstico</string>
     <string name="idioma">Idioma</string>
     <string name="voltar">Voltar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="enviar">Enviar</string>
     <string name="title_activity_idioma">Idioma</string>
 
     <!-- Preference Titles -->

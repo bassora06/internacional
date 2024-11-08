@@ -4,4 +4,8 @@
     <string name="diagnostico">Diagnose</string>
     <string name="idioma">Sprache</string>
     <string name="voltar">Zurück</string>
+    <string name="cadastrar">Registrieren</string>
+    <string name="senha">Passwort</string>
+    <string name="email">E-mail</string>
+    <string name="enviar">Senden</string>
 </resources>
