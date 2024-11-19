@@ -8,4 +8,5 @@
     <string name="senha">Passwort</string>
     <string name="email">E-mail</string>
     <string name="enviar">Senden</string>
+    <string name="nome">Name</string>
 </resources>

@@ -57,14 +57,12 @@ public class MainActivity extends AppCompatActivity {
         Intent tela = new Intent(this, Idioma.class);
         startActivity(tela);
 
-        recreate();
     }
 
     public void telaCadastro(View view){
             Intent tela = new Intent(this, Cadastro.class);
             startActivity(tela);
 
-            recreate();
     }
 
 
